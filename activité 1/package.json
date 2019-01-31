@@ -3,14 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "sum.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "jest": "^24.0.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "jest"
   },
   "author": "",
   "license": "ISC"
 }
-
